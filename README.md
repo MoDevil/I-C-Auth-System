@@ -96,6 +96,3 @@ text
 - **Input Validation**: Comprehensive validation rules
 - **JWT Security**: Short-lived access tokens with refresh mechanism
 
-## 🏗️ Project Structure
-
-
