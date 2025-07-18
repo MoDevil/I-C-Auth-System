@@ -26,7 +26,7 @@ A secure, full-featured authentication system built with Node.js, Express, and M
 
 1. **Clone the repository**
 
-git clone https://github.com/yourusername/authentication-system.git
+git clone https://github.com/MoDevil/I-C-Auth-System.git
 cd authentication-system
 
 2. **Install dependencies**
